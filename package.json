@@ -1,0 +1,13 @@
+{
+  "name": "techfayda-system",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Minimal local Playwright setup for read-only Activepieces auditing.",
+  "scripts": {
+    "save-auth": "node save-auth.js",
+    "audit-readonly": "node audit-readonly.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}

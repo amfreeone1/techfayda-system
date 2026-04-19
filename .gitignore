@@ -1,0 +1,5 @@
+node_modules/
+auth.json
+pw-profile/
+playwright-report/
+test-results/
